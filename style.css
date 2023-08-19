@@ -1,0 +1,69 @@
+table{
+    border: 2px solid rgb(221, 0, 255); 
+    width: 1000px;
+    height: 400px;
+    margin: 90px auto;
+}
+h1{
+    text-align: center;
+}
+td{
+    border: 2px solid rgb(221, 0, 255);
+    /*border-radius:25px*/
+}
+.foto1{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;
+} 
+.foto2{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;
+}
+.foto3{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;
+}
+.foto4{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;
+}
+.foto5{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;
+}
+.foto6{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;  
+}
+.foto0{
+    display: block;
+    margin: 2 auto;
+    border: 5px solid rebeccapurple;
+    border-radius: 100cm ;
+    width: 100px;
+    height: 100px;
+}
